@@ -18,6 +18,7 @@ function logWhisper(string)
   console.log (string.toLowerCase())
 }
 
+<<<<<<< HEAD
 function sayHiToGrandma(string)
 {
   
@@ -36,3 +37,6 @@ function sayHiToGrandma(string)
     return "I love you, too."
   }
 }
+=======
+function 
+>>>>>>> 6e5432ed5dbd1e4d61b33d7f43785be29f718274
